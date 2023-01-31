@@ -3,7 +3,7 @@
         <div class="form-container">
             <div class="form-title">
                 <p>
-                    Форма обратый связ
+                    Форма обратной связи
 
                 </p>
             </div>
